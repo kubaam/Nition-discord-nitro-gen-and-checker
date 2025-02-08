@@ -4,9 +4,9 @@ Here’s your adapted README with a similar structure and formatting as your ori
 
 # 🚀 **Discord Nitro Code Generator & Checker** 🎮  
 
-![GitHub](https://img.shields.io/github/license/kubaam/Discord-Nitro-Code-Generator-and-Checker)  
-![GitHub issues](https://img.shields.io/github/issues/kubaam/Discord-Nitro-Code-Generator-and-Checker)  
-![GitHub stars](https://img.shields.io/github/stars/kubaam/Discord-Nitro-Code-Generator-and-Checker)  
+![GitHub](https://img.shields.io/github/license/kubaam/Nition-discord-nitro-gen-and-checker)  
+![GitHub issues](https://img.shields.io/github/issues/kubaam/Nition-discord-nitro-gen-and-checker)  
+![GitHub stars](https://img.shields.io/github/stars/kubaam/Nition-discord-nitro-gen-and-checker)  
 
 ## **Overview - The Ultimate Nitro Code Generator & Checker**  
 
