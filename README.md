@@ -66,32 +66,16 @@ Follow these easy steps to install and run the tool:
 
 ### 1️⃣ **Clone the Repository**  
 ```bash  
-git clone https://github.com/kubaam/Discord-Nitro-Code-Generator-and-Checker  
-cd Discord-Nitro-Code-Generator-and-Checker  
+git clone https://github.com/kubaam/Nition-discord-nitro-gen-and-checker
+
+cd Nition-discord-nitro-gen-and-checker
+
 ```  
 
 ### 2️⃣ **Install Dependencies**  
 Ensure you have **Python 3.7+** installed, then run:  
 ```bash  
 pip install -r requirements.txt  
-```  
-
-### 3️⃣ **Configure the Tool**  
-- Copy `config.json.example` to `config.json`.  
-- Edit `config.json` and add your:  
-  - **Discord Token** (optional, required for auto-redemption).  
-  - **Webhook URL** (optional, for notifications).  
-
-Example `config.json`:  
-```json  
-{  
-    "Token": "YOUR_DISCORD_USER_TOKEN",  
-    "Webhook": "YOUR_WEBHOOK_URL",  
-    "WebhookNotification": true,  
-    "AutoRedeem": true,  
-    "MaxRetries": 5,  
-    "DelayBetweenRequests": 1.5  
-}
 ```  
 
 ### 4️⃣ **Run the Tool**  
