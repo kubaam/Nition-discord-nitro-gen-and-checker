@@ -145,6 +145,8 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 
 ---
 
+🎉 **Happy Nitro Generating!** 🚀
+
 <!--
 - Discord Nitro Code Generator
 - Discord Nitro Code Checker
@@ -221,5 +223,3 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 - Nitro Code Checker for Discord Servers
 -->
 
-
-🎉 **Happy Nitro Generating!** 🚀
